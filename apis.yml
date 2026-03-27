@@ -1,0 +1,42 @@
+aid: milkman
+name: Milkman
+description: >-
+  Milkman is an extensible request/response workbench for various protocols like HTTP, gRPC, and GraphQL.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+      - Clients
+      - GUI
+      - HTTP Client
+      - gRPC
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/milkman/refs/heads/main/apis.yml
+created: '2026-03-27'
+modified: '2026-03-27'
+specificationVersion: '0.19'
+apis:
+  - aid: milkman:milkman
+    name: Milkman
+    description: >-
+      Milkman is an extensible request/response workbench for various protocols like HTTP, gRPC, and GraphQL.
+    humanURL: https://github.com/warmuuh/milkman
+    tags:
+        - Clients
+        - GUI
+        - HTTP Client
+        - gRPC
+    properties:
+      - type: Documentation
+        url: https://github.com/warmuuh/milkman#readme
+      - type: Getting Started
+        url: https://github.com/warmuuh/milkman#getting-started
+common:
+  - type: Website
+    url: https://github.com/warmuuh/milkman
+  - type: Documentation
+    url: https://github.com/warmuuh/milkman#readme
+  - type: GitHub Organization
+    url: https://github.com/warmuuh/milkman
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
