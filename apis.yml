@@ -5,10 +5,10 @@ description: >-
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-      - Clients
-      - GUI
-      - HTTP Client
-      - gRPC
+  - Clients
+  - gRPC
+  - GUI
+  - HTTP Client
 url: >-
   https://raw.githubusercontent.com/api-evangelist/milkman/refs/heads/main/apis.yml
 created: '2026-03-27'
@@ -21,10 +21,10 @@ apis:
       Milkman is an extensible request/response workbench for various protocols like HTTP, gRPC, and GraphQL.
     humanURL: https://github.com/warmuuh/milkman
     tags:
-        - Clients
-        - GUI
-        - HTTP Client
-        - gRPC
+      - Clients
+      - gRPC
+      - GUI
+      - HTTP Client
     properties:
       - type: Documentation
         url: https://github.com/warmuuh/milkman#readme
