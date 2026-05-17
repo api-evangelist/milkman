@@ -44,7 +44,7 @@ apis:
     properties:
       - type: Documentation
         url: https://github.com/warmuuh/milkman#readme
-      - type: Getting Started
+      - type: GettingStarted
         url: https://github.com/warmuuh/milkman#getting-started
       - type: Source Code
         url: https://github.com/warmuuh/milkman
@@ -59,7 +59,7 @@ common:
     url: https://github.com/warmuuh/milkman
   - type: Documentation
     url: https://github.com/warmuuh/milkman#readme
-  - type: GitHub Organization
+  - type: GitHubOrganization
     url: https://github.com/warmuuh/milkman
   - type: Releases
     url: https://github.com/warmuuh/milkman/releases
