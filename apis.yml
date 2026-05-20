@@ -55,6 +55,8 @@ apis:
       - type: Plugins
         url: https://github.com/warmuuh/milkman/wiki
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/milkmantechnologies
   - type: Website
     url: https://github.com/warmuuh/milkman
   - type: Documentation
