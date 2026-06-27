@@ -48,7 +48,7 @@ apis:
     url: https://github.com/warmuuh/milkman#getting-started
   - type: Source Code
     url: https://github.com/warmuuh/milkman
-  - type: Releases
+  - type: ReleaseNotes
     url: https://github.com/warmuuh/milkman/releases
   - type: Issues
     url: https://github.com/warmuuh/milkman/issues
@@ -65,7 +65,7 @@ common:
   url: https://github.com/warmuuh/milkman#readme
 - type: GitHubOrganization
   url: https://github.com/warmuuh/milkman
-- type: Releases
+- type: ReleaseNotes
   url: https://github.com/warmuuh/milkman/releases
 - type: Issues
   url: https://github.com/warmuuh/milkman/issues
