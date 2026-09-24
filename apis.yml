@@ -40,7 +40,7 @@ tags:
 - HTTP Client
 - JDBC
 - MCP
-- Open-Source
+- Open Source
 - Socket.IO
 - WebSocket
 tags_raw:
@@ -55,6 +55,7 @@ tags_raw:
 - Open Source
 - Socket.IO
 - WebSocket
+- Open-Source
 url: >-
   https://raw.githubusercontent.com/api-evangelist/milkman/refs/heads/main/apis.yml
 created: '2026-03-27'
@@ -89,8 +90,6 @@ apis:
     url: https://github.com/warmuuh/milkman/issues
   - type: Plugins
     url: https://github.com/warmuuh/milkman/wiki
-  - url: graphql/milkman-graphql.md
-    type: GraphQL
 common:
 - type: LinkedIn
   url: https://www.linkedin.com/company/milkmantechnologies
